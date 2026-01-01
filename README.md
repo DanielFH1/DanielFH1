@@ -8,7 +8,6 @@ You can check more of my works and studies at my [Blog](https://danielfh1.github
 
 ### 🔬 Research Focus
 - Multi-modal Learning & Robotics
-- Natural Language Processing
 - Quantitative Investing
 
 ### 📚 Current Research
