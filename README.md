@@ -4,6 +4,8 @@ I'm Seungwoo Lim, a Computer Science student at Dongguk University passionate ab
 
 Currently conducting research at POSTECH's Machine Learning and Vision Group as a WURF Fellow.
 
+You can check more of my works and studies at my [Blog](https://danielfh1.github.io/)
+
 ### 🔬 Research Focus
 - Multi-modal Learning & Robotics
 - Natural Language Processing
