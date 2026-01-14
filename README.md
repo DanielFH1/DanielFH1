@@ -8,7 +8,6 @@ You can check more of my works and studies at my [Blog](https://danielfh1.github
 
 ### 🔬 Research Focus
 - Multi-modal Learning & Robotics
-- Quantitative Investing
 
 ### 📚 Current Research
 - **POSTECH Machine Learning and Vision Group** (WURF Fellow, Jan 2026)
