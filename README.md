@@ -50,6 +50,8 @@ Built automated trading system on Upbit exchange integrating real-time market da
 - 🎓 POSTECH WURF Fellowship recipient
 - 🌍 International research experience at University of York (UK) & Yonsei University
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flsw0927)](https://solved.ac/flsw0927/)
+
 ### 📫 Get in Touch
 <div align="center">
   
