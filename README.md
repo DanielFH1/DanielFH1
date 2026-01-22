@@ -6,6 +6,8 @@ Currently conducting research at POSTECH's Machine Learning and Vision Group as 
 
 You can check more of my works and studies at my [Blog](https://danielfh1.github.io/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flsw0927)](https://solved.ac/flsw0927/)
+
 ### 🔬 Research Focus
 - Multi-modal Learning & Robotics
 
@@ -49,8 +51,6 @@ Built automated trading system on Upbit exchange integrating real-time market da
 - 📄 Published paper at KIPS 2025 on AI text detection
 - 🎓 POSTECH WURF Fellowship recipient
 - 🌍 International research experience at University of York (UK) & Yonsei University
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flsw0927)](https://solved.ac/flsw0927/)
 
 ### 📫 Get in Touch
 <div align="center">
