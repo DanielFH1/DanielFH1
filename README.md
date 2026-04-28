@@ -6,8 +6,6 @@ Most recently, I have conducted research at POSTECH's Machine Learning and Visio
 
 You can check more of my works and studies at my [Blog](https://danielfh1.github.io/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flsw0927)](https://solved.ac/flsw0927/)
-
 ### 🔬 Research Focus
 - Multi-modal Learning & Robotics
 
